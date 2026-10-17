@@ -1,0 +1,18 @@
+
+{
+  "format_version": 2,
+  "header": {
+    "name": "Glacius RP",
+    "description": "Glacius custom mob textures and models",
+    "uuid": "4b31c8a7-2f65-4d90-8e13-6a52b7f019cd",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c92e5f14-7a83-4b60-9d21-5e8a3f0176bd",
+      "version": [1, 0, 0]
+    }
+  ]
+}
