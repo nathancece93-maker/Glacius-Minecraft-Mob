@@ -1,0 +1,21 @@
+
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "glacius:glacius",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/glacius"
+      },
+      "geometry": {
+        "default": "geometry.glacius"
+      },
+      "render_controllers": [
+        "controller.render.glacius"
+      ]
+    }
+  }
+}
